@@ -3,7 +3,7 @@
 # for examples
 
 # Expanding PATH
-export PATH=/home/pawel/ghs/comp_716:/home/pawel/ghs/comp_201754:/home/pawel/ghs:$PATH
+export PATH=$PATH
 
 # If not running interactively, don't do anything
 case $- in
